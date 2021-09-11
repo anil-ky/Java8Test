@@ -1,0 +1,28 @@
+{
+    "options": {
+        "OutputCasing": "M",
+        "MaximumResults": "10",
+        "KeepMultimatch": "N",
+        "OutputScript": "InputScript",
+        "OutputAddressBlocks": "Y",
+        "OutputCountryFormat": "E",
+        "OutputFieldLevelReturnCodes": "N",
+        "OutputRecordType": "A"
+    },
+    "Input": {
+        "Row": [
+            {
+                "AddressLine1": "1700 District Ave #300",
+                "AddressLine2": "",
+                "AddressLine3": "",
+                "AddressLine4": "",
+                "AddressLine5": "",
+                "City": "Burlington",
+                "Country": "USA",
+                "StateProvince": "MA",
+                "PostalCode": "01803",
+                "FirmName": "Precisely"
+            }
+        ]
+    }
+}

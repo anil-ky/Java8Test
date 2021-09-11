@@ -1,0 +1,1167 @@
+{
+    "client_user_id": "OgzKrgtu89hPTpnx7lcA",
+    "medicalData": {
+        "allergies": [{
+        "id": "5fd23d7f3471d704bd43498a",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "updatedAt": "2020-12-10T15:23:43.843Z",
+        "createdAt": "2020-12-10T15:23:43.843Z",
+        "name": "Metformin",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Metformin",
+                "code": "6809",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "235743",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "786Z46389E",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "code": "9100L32L2N",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "code": "V9AZJ7GJZ1",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Metformin",
+                "code": "N0000006631",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            },
+            {
+                "name": "Metformin",
+                "code": "N0000021984",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            },
+            {
+                "code": "N0000148391",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "allergen": {
+            "name": "Metformin",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "6809",
+                    "name": "Metformin"
+                },
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "235743"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "786Z46389E"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "9100L32L2N"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "V9AZJ7GJZ1"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Rash-Mild",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": []
+            }
+        ],
+        "dateRange": {
+            "start": "2020-01-12T10:00:00.000Z"
+        },
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d803471d77282434a43",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "updatedAt": "2020-12-10T15:23:44.448Z",
+        "createdAt": "2020-12-10T15:23:44.448Z",
+        "name": "Varenicline",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Varenicline",
+                "code": "636674",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "82269ASB48",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Varenicline",
+                "code": "N0000176049",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "allergen": {
+            "name": "Varenicline",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "636674",
+                    "name": "Varenicline"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "82269ASB48"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Swelling",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": [
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206888002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "266308000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "155375008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158247007",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158244000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139241006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161988006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "79654002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161979002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206891002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "423666004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "20741006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "267038008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139250008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206894005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158241008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "139161006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "248479005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "161906008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "413269001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "65124004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "442672001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "300871001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    }
+                ]
+            }
+        ],
+        "dateRange": {
+            "start": "2018-11-30T10:00:00.000Z"
+        },
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d7e3471d7f17143485f",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "updatedAt": "2020-12-10T15:23:43.448Z",
+        "createdAt": "2020-12-10T15:23:43.448Z",
+        "name": "Chantix",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Chantix",
+                "code": "636674",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "82269ASB48",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Chantix",
+                "code": "N0000176049",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "severity": "unknown",
+        "allergen": {
+            "name": "Chantix",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "636674",
+                    "name": "Chantix"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "82269ASB48"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Swelling",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": [
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206888002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "266308000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "155375008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158247007",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158244000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139241006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161988006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "79654002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161979002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206891002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "423666004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "20741006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "267038008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139250008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206894005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158241008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "139161006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "248479005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "161906008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "413269001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "65124004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "442672001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "300871001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    }
+                ]
+            }
+        ],
+        "dateRange": {
+            "start": "2018-11-30T10:00:00.000Z"
+        },
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23cea3471d77eb4433503",
+            "href": "/medical/ccds/5fd23cea3471d77eb4433503"
+        }
+    },
+    {
+        "id": "5fd23ce43471d79a66432e5a",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "updatedAt": "2020-12-10T15:21:09.155Z",
+        "createdAt": "2020-12-10T15:21:09.155Z",
+        "name": "Metformin",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Metformin",
+                "code": "6809",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "235743",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "786Z46389E",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "code": "9100L32L2N",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "code": "V9AZJ7GJZ1",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Metformin",
+                "code": "N0000006631",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            },
+            {
+                "name": "Metformin",
+                "code": "N0000021984",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            },
+            {
+                "code": "N0000148391",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "allergen": {
+            "name": "Metformin",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "6809",
+                    "name": "Metformin"
+                },
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "235743"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "786Z46389E"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "9100L32L2N"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "V9AZJ7GJZ1"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Other (see Comments)",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": []
+            }
+        ],
+        "dateRange": {
+            "start": "2014-03-24T00:00:00.000Z"
+        },
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce53471d74d7d432f1f",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "updatedAt": "2020-12-10T15:21:09.856Z",
+        "createdAt": "2020-12-10T15:21:09.856Z",
+        "name": "Varenicline",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Varenicline",
+                "code": "636674",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "82269ASB48",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Varenicline",
+                "code": "N0000176049",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "allergen": {
+            "name": "Varenicline",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "636674",
+                    "name": "Varenicline"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "82269ASB48"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Swelling",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": [
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206888002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "266308000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "155375008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158247007",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158244000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139241006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161988006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "79654002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161979002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206891002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "423666004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "20741006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "267038008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139250008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206894005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158241008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "139161006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "248479005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "161906008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "413269001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "65124004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "442672001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "300871001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    }
+                ]
+            }
+        ],
+        "dateRange": {
+            "start": "2013-12-24T00:00:00.000Z"
+        },
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce33471d765f6432d5c",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "updatedAt": "2020-12-10T15:21:08.846Z",
+        "createdAt": "2020-12-10T15:21:08.846Z",
+        "name": "Chantix",
+        "patient": {
+            "name": ""
+        },
+        "codes": [
+            {
+                "name": "Chantix",
+                "code": "636674",
+                "codeSystem": "2.16.840.1.113883.6.88",
+                "codeSystemName": "RxNorm",
+                "inferred": false
+            },
+            {
+                "code": "82269ASB48",
+                "codeSystem": "2.16.840.1.113883.4.9",
+                "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                "inferred": false
+            },
+            {
+                "name": "Chantix",
+                "code": "N0000176049",
+                "codeSystem": "2.16.840.1.113883.3.26.1.5",
+                "codeSystemName": "NDF-RT",
+                "inferred": true
+            }
+        ],
+        "status": "Active",
+        "severity": "unknown",
+        "allergen": {
+            "name": "Chantix",
+            "codes": [
+                {
+                    "codeSystemName": "RxNorm",
+                    "codeSystem": "2.16.840.1.113883.6.88",
+                    "code": "636674",
+                    "name": "Chantix"
+                },
+                {
+                    "codeSystemName": "FDA Unique Ingredient Identifier (UNII)",
+                    "codeSystem": "2.16.840.1.113883.4.9",
+                    "code": "82269ASB48"
+                }
+            ]
+        },
+        "reactionsFull": [
+            {
+                "name": "Swelling",
+                "reactionType": {
+                    "codes": []
+                },
+                "codes": [
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206888002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "266308000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "155375008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158247007",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158244000",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139241006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161988006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "79654002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "161979002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206891002",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "423666004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "20741006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "267038008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "139250008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "206894005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Edema",
+                        "code": "158241008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "139161006",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "248479005",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "161906008",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "413269001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "65124004",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "442672001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    },
+                    {
+                        "inferredFrom": "ctakes-service",
+                        "name": "Swelling",
+                        "code": "300871001",
+                        "codeSystem": "2.16.840.1.113883.6.96",
+                        "codeSystemName": "SNOMED CT"
+                    }
+                ]
+            }
+        ],
+        "dateRange": {
+            "start": "2013-12-24T00:00:00.000Z"
+        },
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23cea3471d77eb4433503",
+            "href": "/medical/ccds/5fd23cea3471d77eb4433503"
+        }
+    }]
+    }
+}

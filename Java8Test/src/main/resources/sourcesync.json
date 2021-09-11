@@ -1,0 +1,56 @@
+[
+    {
+        "id": "5fd23cdfcd04c0fff6f2790f",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "supportedDataTypes": [],
+        "sourceName": "Starfleet Pharmacy",
+        "connectedSince": "2020-12-10T15:21:03.217Z",
+        "expectedSyncDuration": 5,
+        "devices": [
+            "5b1daf3f079c652eaf41fd23"
+        ],
+        "syncStatus": {
+            "status": "ok",
+            "details": "ok",
+            "synchedAt": "2020-12-10T15:21:34.448Z"
+        },
+        "historySync": {
+            "status": "completed"
+        },
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "resync": {
+            "active": true
+        }
+    },
+    {
+        "id": "5fd23d7a45e87ad24cb6871e",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "supportedDataTypes": [],
+        "sourceName": "Starfleet Medical",
+        "connectedSince": "2020-12-10T15:23:38.061Z",
+        "expectedSyncDuration": 5,
+        "devices": [
+            "55a83bdc8d1eb1420aa1a71b"
+        ],
+        "syncStatus": {
+            "status": "ok",
+            "details": "ok",
+            "synchedAt": "2020-12-10T15:24:09.575Z"
+        },
+        "historySync": {
+            "status": "completed"
+        },
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "resync": {
+            "active": true
+        }
+    }
+]

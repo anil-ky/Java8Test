@@ -1,0 +1,430 @@
+[
+    {
+        "id": "5fd23d833471d78d47434da2",
+        "name": "Influenza Vaccine, Quadrivalent, PF",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2020-01-13T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:47.057Z",
+        "createdAt": "2020-12-10T15:23:47.057Z",
+        "codes": [
+            {
+                "name": "Influenza Vaccine, Quadrivalent, PF",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "INFLUENZA VACCINE, QUADRIVALENT, PF",
+                "code": "49281-414-88",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d823471d74d2c434cec",
+        "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2019-11-26T10:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:46.742Z",
+        "createdAt": "2020-12-10T15:23:46.742Z",
+        "codes": [
+            {
+                "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+                "code": "58160-905-41",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d813471d70ce7434bbf",
+        "name": "PUR TDAP 7+ YRS IM",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2019-02-26T10:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:46.057Z",
+        "createdAt": "2020-12-10T15:23:46.057Z",
+        "codes": [
+            {
+                "name": "PUR TDAP 7+ YRS IM",
+                "code": "115",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR TDAP 7+ YRS IM",
+                "code": "58160-842-43",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d813471d7541a434b71",
+        "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2018-09-11T10:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:45.445Z",
+        "createdAt": "2020-12-10T15:23:45.445Z",
+        "codes": [
+            {
+                "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+                "code": "140",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+                "code": "58160-903-41",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d7f3471d71aa1434a11",
+        "name": "INFLUENZA VACCINE, QUADRIVALENT",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2018-01-13T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:44.447Z",
+        "createdAt": "2020-12-10T15:23:44.447Z",
+        "codes": [
+            {
+                "name": "INFLUENZA VACCINE, QUADRIVALENT",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23d7e3471d73efd43494b",
+        "name": "Pneumococcal Vaccine Adult - 23 Valent",
+        "source": "55a83bdc8d1eb1420aa1a71b",
+        "dates": [
+            "2015-11-07T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:23:43.464Z",
+        "createdAt": "2020-12-10T15:23:43.464Z",
+        "codes": [
+            {
+                "name": "Pneumococcal Vaccine Adult - 23 Valent",
+                "code": "33",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "55a83bdc8d1eb1420aa1a71b",
+            "name": "Starfleet Medical",
+            "href": "/medical/organizations/55a83bdc8d1eb1420aa1a71b"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce73471d7a3ce433191",
+        "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2015-09-22T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:12.050Z",
+        "createdAt": "2020-12-10T15:21:12.050Z",
+        "codes": [
+            {
+                "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR FLU 3+ YRS PRES FREE QUAD IM",
+                "code": "58160-905-41",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce73471d7efa243310f",
+        "name": "PUR TDAP 7+ YRS IM",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2015-03-23T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:11.445Z",
+        "createdAt": "2020-12-10T15:21:11.445Z",
+        "codes": [
+            {
+                "name": "PUR TDAP 7+ YRS IM",
+                "code": "115",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR TDAP 7+ YRS IM",
+                "code": "58160-842-43",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce63471d718cc433047",
+        "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2014-09-22T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:10.951Z",
+        "createdAt": "2020-12-10T15:21:10.951Z",
+        "codes": [
+            {
+                "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+                "code": "140",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "PUR FLU PRES FREE AGE 3+ FULL IM",
+                "code": "58160-903-41",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce83471d75e594332dd",
+        "name": "Influenza Vaccine, Quadrivalent, PF",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2014-01-13T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:12.744Z",
+        "createdAt": "2020-12-10T15:21:12.744Z",
+        "codes": [
+            {
+                "name": "Influenza Vaccine, Quadrivalent, PF",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            },
+            {
+                "name": "INFLUENZA VACCINE, QUADRIVALENT, PF",
+                "code": "49281-414-88",
+                "codeSystem": "2.16.840.1.113883.6.69",
+                "codeSystemName": "NDC",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce53471d70c4e432f73",
+        "name": "INFLUENZA VACCINE, QUADRIVALENT",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2014-01-13T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:10.243Z",
+        "createdAt": "2020-12-10T15:21:10.243Z",
+        "codes": [
+            {
+                "name": "INFLUENZA VACCINE, QUADRIVALENT",
+                "code": "150",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    },
+    {
+        "id": "5fd23ce33471d71345432e22",
+        "name": "Pneumococcal Vaccine Adult - 23 Valent",
+        "source": "5b1daf3f079c652eaf41fd23",
+        "dates": [
+            "2010-11-07T00:00:00.000Z"
+        ],
+        "patient": {
+            "name": ""
+        },
+        "updatedAt": "2020-12-10T15:21:08.855Z",
+        "createdAt": "2020-12-10T15:21:08.855Z",
+        "codes": [
+            {
+                "name": "Pneumococcal Vaccine Adult - 23 Valent",
+                "code": "33",
+                "codeSystem": "2.16.840.1.113883.12.292",
+                "codeSystemName": "CVX",
+                "inferred": false
+            }
+        ],
+        "organization": {
+            "id": "5b1daf3f079c652eaf41fd23",
+            "name": "Starfleet Pharmacy",
+            "href": "/medical/organizations/5b1daf3f079c652eaf41fd23"
+        },
+        "ccd": {
+            "id": "5fd23ce63471d797bf43301d",
+            "href": "/medical/ccds/5fd23ce63471d797bf43301d"
+        }
+    }
+]
