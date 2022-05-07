@@ -2,6 +2,7 @@ package com.java8.json.test;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -40,6 +41,8 @@ public class ObjectMapperTest {
 		System.out.println(jsonArray);
 		
 		Car car22 = objectMapper.readValue(new File("target/car.json"), Car.class);
+        // InputStream inputStream = getClass().getClassLoader().getResourceAsStream("LocationServiceResponse.json");
+
 		System.out.println(car22.getType());
 		
 		// 3. Creating a Java List From a JSON Array String
